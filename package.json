@@ -1,0 +1,25 @@
+{
+  "name": "legit-mail",
+  "version": "0.0.0",
+  "description": "Checks e-mail address if legitimate or not. Unlike other modules, this one follows convention.",
+  "main": "legit-mail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/legit-mail.git"
+  },
+  "keywords": [
+    "email-user-validation",
+    "email-validation",
+    "email",
+    "legitimate-email"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/legit-mail/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/legit-mail#readme"
+}
